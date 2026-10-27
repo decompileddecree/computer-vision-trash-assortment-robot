@@ -7,6 +7,7 @@ Python and Arduino source for a robot that detects and sorts waste using a YOLO 
 - `Robot_TA v3.0.py` — computer-vision controller and robot behavior.
 - `Robot_Pemilah_Sampah_1.3V.ino` — Arduino firmware.
 - `best3.pt` — trained YOLO model used by the Python controller.
+- [`docs/CODE_EXPLANATION.md`](docs/CODE_EXPLANATION.md) — how the programs work, how they communicate, and how the sorting cycle is organized.
 
 ## Project materials
 
